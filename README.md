@@ -1,1 +1,1 @@
-This is ELementalReckoning's first git project
+This is ElementalReckoning's first git project
